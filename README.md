@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Faris Mohamed, a software developer who loves diving deep into both web and mobile realms. My journey has taken me through .NET, SQL Server, Telerik.Web.UI, and the dynamic world of the MERN stack. While I'm rooted in web development, I've also ventured into mobile app development, always eager to embrace the challenges it brings.
+My name is Faris, a software developer who loves diving deep into both web and mobile realms. My journey has taken me through .NET, SQL Server, Telerik.Web.UI, and the dynamic world of the MERN stack. While I'm rooted in web development, I've also ventured into mobile app development, always eager to embrace the challenges it brings.
 
 What excites me the most about the tech world? It's the continuous evolution! 🚀 I am always on the lookout for new technologies to learn and implement. The rapidly changing landscape of software development ensures there's never a dull moment, and I thrive in such environments.
 
