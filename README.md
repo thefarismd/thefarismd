@@ -1,14 +1,21 @@
-### Hi there 👋
+# Hello World! 👋 I'm Faris!
 
+🚀 I'm a web development enthusiast, eagerly diving into the MERN stack (MongoDB, Express.js, React, Node.js) and Bootstrap.
 
-My name is Faris, a software developer who loves diving deep into both web and mobile realms. My journey has taken me through .NET, SQL Server, Telerik.Web.UI, and the dynamic world of the MERN stack. While I'm rooted in web development, I've also ventured into mobile app development, always eager to embrace the challenges it brings.
+👨‍💻 I'm committed to mastering full-stack development, blending back-end efficiency with front-end aesthetics.
 
-What excites me the most about the tech world? It's the continuous evolution! 🚀 I am always on the lookout for new technologies to learn and implement. The rapidly changing landscape of software development ensures there's never a dull moment, and I thrive in such environments.
+🌱 Each day is a step forward in my journey through the intricate and fascinating world of web development.
 
-When I'm not diving into code, you can find me flexing at the gym, saddling up for some horseriding, or traveling to my next adventure when time permits.
+💡 Fun fact: In my free time, you'll either find me at the gym or horse riding, embracing both fitness and adventure.
 
-🔍 Looking to collaborate or just chat?
-Drop me a message or check out some of my projects below!
+📫 Feel free to connect with me at: [thefarismd@icloud.com] | [www.linkedin.com/in/thefarismd] | [https://wa.me/6593374545].
+
+📄 Take a look at my repositories for a snapshot of my development journey. Feedback, stars, and collaborations are always welcome!
+
+---
+
+⚡ Quote of the Day: "The only way to do great work is to love what you do." - Steve Jobs
+
 
 
 <!--
